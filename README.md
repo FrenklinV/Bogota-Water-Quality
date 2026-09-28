@@ -8,7 +8,7 @@ The full method, results and discussion are in the notebook.
 
 ## Run it in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FrenklinV/Bogota-Water-Quality/blob/main/Project_Water_Quality_G4_VF.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FrenklinV/Bogota-Water-Quality/blob/main/Project_Water_Quality_Bogota_Colombia.ipynb)
 
 **What you need:** a Google account and a free [Google Earth Engine](https://earthengine.google.com/) account.
 
