@@ -2,7 +2,7 @@
 
 Geospatial assessment of surface water quality in Bogotá, combining in-situ monitoring data (RCHB/OAB network) with Sentinel-2 satellite imagery from Google Earth Engine. The analysis covers TSS, COD, total nitrogen and total phosphorus, and includes trend analysis and hotspot detection linked to land-use pressure.
 
-Authors:Frenklin Vata & Maycol Zaraza Aguilera
+Authors: Frenklin Vata & Maycol Zaraza Aguilera
 
 
 The full method, results and discussion are in the notebook.
@@ -22,7 +22,6 @@ The full method, results and discussion are in the notebook.
 **Notes**
 - The Sentinel-2 extraction step takes about 40 minutes.
 - The interactive maps only appear while the notebook is running in Colab. On GitHub you see the static figures.
-- Files saved to `output/` disappear when the Colab session ends. Download anything you want to keep.
 
 ## Repository contents
 
@@ -37,3 +36,11 @@ The full method, results and discussion are in the notebook.
 - In-situ water quality: Observatorio Ambiental de Bogotá (RCHB network)
 - Land cover: CORINE Land Cover 2022, IDEAM
 - Satellite imagery: Sentinel-2 L2A (`COPERNICUS/S2_SR_HARMONIZED`) via Google Earth Engine
+
+  ## What you can see on GitHub
+
+GitHub previews the notebook without running it, so some outputs don't display:
+
+- Static charts, tables and figures **are shown**.
+- The interactive maps (geemap/folium) and Plotly charts **are not shown** on GitHub, and may appear blank. GitHub doesn't run interactive content.
+- To see them, open the notebook in Colab, log in to Earth Engine, and run the cells. The four Earth Engine maps only appear when the cells are run.
