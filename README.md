@@ -2,7 +2,6 @@
 
 Geospatial assessment of surface water quality in Bogotá, combining in-situ monitoring data (RCHB/OAB network) with Sentinel-2 satellite imagery from Google Earth Engine. The analysis covers TSS, COD, total nitrogen and total phosphorus, and includes trend analysis and hotspot detection linked to land-use pressure.
 
-Authors: Frenklin Vata & Maycol Zaraza Aguilera
 
 
 The full method, results and discussion are in the notebook.
